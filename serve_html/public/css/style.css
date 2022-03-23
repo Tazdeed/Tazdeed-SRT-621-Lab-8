@@ -1,0 +1,35 @@
+body {
+    font-family: "Arial", sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+}
+
+.subhead {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+#book1 {
+    margin-left: 25%;
+}
+
+#book2 {
+    margin-left: 25%;
+}
+
+#book3 {
+    margin-left: 25%;
+}
